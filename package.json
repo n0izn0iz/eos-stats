@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/n0izn0iz/eos-stats/issues"
   },
-  "homepage": "https://github.com/n0izn0iz/eos-stats#readme"
+  "homepage": "https://github.com/n0izn0iz/eos-stats#readme",
+  "dependencies": {
+    "web3": "^0.19.1"
+  }
 }
