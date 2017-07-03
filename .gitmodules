@@ -1,0 +1,3 @@
+[submodule "eos-token-distribution"]
+	path = eos-token-distribution
+	url = https://github.com/EOSIO/eos-token-distribution.git

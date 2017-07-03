@@ -4,7 +4,8 @@
   "description": "stats about the eos token distribution (for now)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/n0izn0iz/eos-stats#readme",
   "dependencies": {
+    "truffle-contract": "^2.0.1",
     "web3": "^0.19.1"
   }
 }
