@@ -1,0 +1,22 @@
+{
+  "name": "eos-stats",
+  "version": "0.0.0",
+  "description": "stats about the eos token distribution (for now)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0izn0iz/eos-stats.git"
+  },
+  "keywords": [
+    "eos"
+  ],
+  "author": "some-account",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0izn0iz/eos-stats/issues"
+  },
+  "homepage": "https://github.com/n0izn0iz/eos-stats#readme"
+}
